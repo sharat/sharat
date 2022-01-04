@@ -14,6 +14,7 @@ Contact me?
 ## Uses this!
 I am a big fan of [Usesthis](https://usesthis.com) interviews to share the setup. I prefer a minimalist setup
 
+### Hardware
 - iPhone 12 Pro Max
 - Apple Watch Series 7
 - AirPods Pro
@@ -22,7 +23,6 @@ I am a big fan of [Usesthis](https://usesthis.com) interviews to share the setup
 - Logitech K380 external keyboard
 - Original HomePods stereo paired, and HomePod Mini
 - Several android and iPhones at work :) 
-
 
 ### Softwares
 - iTerm
