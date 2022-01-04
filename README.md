@@ -10,3 +10,23 @@ Who am I?
 Contact me?
 - 📫 Reach me: [@sarat](https://twitter.com/sarat)
 - 😄 Pronouns: "Sha-ra-th"
+
+Uses this!
+I am a big fan of [Usesthis](https://usesthis.com) interviews to share the setup. I prefer a minimalist setup
+
+- iPhone 12 Pro Max is my daily driver
+- Apple Watch Series 7
+- AirPods Pro
+- MacBook Pro (15-inch, 2019)
+- Logitech Mx Master 2S
+- Logitech K380 external keyboard
+- Original HomePods stereo paired, and HomePod Mini
+- Several android and iPhones at work :) 
+
+
+### Softwares
+- iTerm
+- VS Code
+- iA Writer
+- Notion
+- iPassword
