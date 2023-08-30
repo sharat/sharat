@@ -15,18 +15,21 @@ Contact me?
 I am a big fan of [Usesthis](https://usesthis.com) interviews to share the setup. I prefer a minimalist setup
 
 ### Hardware
-- iPhone 12 Pro Max
+- iPhone 14 Pro Max
 - Apple Watch Series 7
 - AirPods Pro
-- MacBook Pro (15-inch, 2019)
+- MacBook Pro (15-inch, Mid 2019)
 - Logitech Mx Master 2S
-- Logitech K380 external keyboard
 - Original HomePods stereo paired, and HomePod Mini
 - Several android and iPhones at work :) 
 
 ### Softwares
-- iTerm
+- Warp
 - VS Code
 - iA Writer
 - Notion
-- iPassword
+- 1Password
+- Cleanshot
+- Rectangle
+- GitHub Copilot
+- GitHub Codespaces
