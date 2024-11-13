@@ -14,11 +14,11 @@ Contact me.
 I am a big fan of [Usesthis](https://usesthis.com) interviews to share the setup. I prefer a minimalist setup.
 
 ### Hardware
-- iPhone 15 Pro Max
+- iPhone 16 Pro Max
 - Apple Watch Series 7
-- AirPods Pro
-- MacBook Pro (15-inch, Mid 2019)
-- Logitech Mx Master 2S
+- AirPods Pro 2
+- MacBook Pro (Apple M3 Max)
+- Logitech Mx Master 3S
 - Original HomePods stereo paired and HomePod Mini
 - Several Android and iPhones at work :) 
 
