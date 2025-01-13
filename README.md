@@ -34,13 +34,10 @@ I am a big fan of [Usesthis](https://usesthis.com) interviews to share the setup
 
 ### Podcasts
 
-#### My favorites of 2023
+#### My favorites of 2024
 - [The Morgan Housel Podcast](https://open.spotify.com/show/2l01lGyIh9xodneIV37dD3?si=aabcf0f6af3a4f0c)
 - Selected [Huberman Labs](https://open.spotify.com/show/79CkJF3UJTHFV8Dse3Oy0P)
 - [WTF by Nikhil Kamath](https://open.spotify.com/show/5T1uhRS6IKKYuo9v0jcSrD)
-- Selected [Lenny's Podcast](https://open.spotify.com/show/2dR1MUZEHCOnz1LVfNac0j)
-- Selected [Acquired](https://open.spotify.com/show/7Fj0XEuUQLUqoMZQdsLXqp)
-- [SparX by Mukesh Bansal](https://open.spotify.com/show/5i3MCokWyGq3PWx43vwrfA)
 - Selected [Lex Fridman Podcast](https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL)
 
 <sub>Last updated 13-Jan-2024</sub> 
