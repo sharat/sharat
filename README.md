@@ -23,13 +23,14 @@ I am a big fan of [Usesthis](https://usesthis.com) interviews to share the setup
 - Several Android and iPhones at work :) 
 
 ### Softwares
-- Warp
+- Ghostty
 - VS Code
 - iA Writer
-- 1Password
+- 1Password/Apple Passwords
+- Apple Mail (I don't use third-party email clients)
 - Cleanshot
 - Rectangle
-- GitHub Copilot & Codespaces
+- Windsurf, GitHub Copilot & Codespaces
 
 ### Podcasts
 
@@ -42,4 +43,4 @@ I am a big fan of [Usesthis](https://usesthis.com) interviews to share the setup
 - [SparX by Mukesh Bansal](https://open.spotify.com/show/5i3MCokWyGq3PWx43vwrfA)
 - Selected [Lex Fridman Podcast](https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL)
 
-<sub>Last updated 13-Dec-2023</sub> 
+<sub>Last updated 13-Jan-2024</sub> 
